@@ -1,0 +1,19 @@
+C:\Users\Admin\Desktop\DiemDanh\DiemDanh\bin\Debug\DiemDanh.exe.config
+C:\Users\Admin\Desktop\DiemDanh\DiemDanh\bin\Debug\DiemDanh.exe
+C:\Users\Admin\Desktop\DiemDanh\DiemDanh\bin\Debug\DiemDanh.pdb
+C:\Users\Admin\Desktop\DiemDanh\DiemDanh\obj\Debug\DiemDanh.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DiemDanh\DiemDanh\obj\Debug\DiemDanh.Form1.resources
+C:\Users\Admin\Desktop\DiemDanh\DiemDanh\obj\Debug\DiemDanh.Properties.Resources.resources
+C:\Users\Admin\Desktop\DiemDanh\DiemDanh\obj\Debug\DiemDanh.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\DiemDanh\DiemDanh\obj\Debug\DiemDanh.exe
+C:\Users\Admin\Desktop\DiemDanh\DiemDanh\obj\Debug\DiemDanh.pdb
+D:\C Sharp\Bai lam C sharp\Win form\DiemDanh\DiemDanh\bin\Debug\DiemDanh.exe.config
+D:\C Sharp\Bai lam C sharp\Win form\DiemDanh\DiemDanh\obj\Debug\DiemDanh.exe
+D:\C Sharp\Bai lam C sharp\Win form\DiemDanh\DiemDanh\obj\Debug\DiemDanh.pdb
+D:\C Sharp\Bai lam C sharp\Win form\DiemDanh\DiemDanh\bin\Debug\DiemDanh.exe
+D:\C Sharp\Bai lam C sharp\Win form\DiemDanh\DiemDanh\bin\Debug\DiemDanh.pdb
+D:\C Sharp\Bai lam C sharp\Win form\DiemDanh\DiemDanh\obj\Debug\DiemDanh.csprojResolveAssemblyReference.cache
+D:\C Sharp\Bai lam C sharp\Win form\DiemDanh\DiemDanh\obj\Debug\DiemDanh.frmMain.resources
+D:\C Sharp\Bai lam C sharp\Win form\DiemDanh\DiemDanh\obj\Debug\DiemDanh.Properties.Resources.resources
+D:\C Sharp\Bai lam C sharp\Win form\DiemDanh\DiemDanh\obj\Debug\DiemDanh.csproj.GenerateResource.Cache
+D:\C Sharp\Bai lam C sharp\Win form\DiemDanh\DiemDanh\obj\Debug\DiemDanh.frmCharStick.resources
